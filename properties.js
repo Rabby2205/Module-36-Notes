@@ -33,4 +33,4 @@ Object.seal(bottol);//after seal a object you can modifie but you cann't add or 
 Object.freeze(bottol);//if you freez any object you cann't modifie ,add or delet from that object .******
 bottol.price = 100;//Modified price at Object of bottol .*****changin value of properties on object .
 delete bottol.isClean;
-console.log(bottol);
+// console.log(bottol);
