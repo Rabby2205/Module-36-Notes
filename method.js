@@ -1,4 +1,4 @@
-// 1.Method
+// 1.Method system
 const student = {
     id: 101,
     money: 5000,
