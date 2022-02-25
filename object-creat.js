@@ -29,3 +29,4 @@ function Manush(name, age) {
 }
 const man = new Manush('Rabby islam', 23);
 console.log(man);
+// creating object ---------------
