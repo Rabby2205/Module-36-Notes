@@ -24,7 +24,7 @@ for (const prop of keys) {
     // console.log(student[prop]);
 }
 // advance
-const entries = Object.entries(student);
+const entries = Object.entries(student);//
 // console.log(entries);
 //const [key,value] = ['name','Rabby islam']-----be distructured and i getting
 /**OUtput
